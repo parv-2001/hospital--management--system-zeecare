@@ -4,6 +4,8 @@ Welcome to our Hospital Management Portal, a dynamic platform designed to cater 
 -----------------------------------------------------------------------
 user can register on frontend and login to take appointments.
 an admin dashboard for a Hospital Management System (HMS) using the MERN stack, where admin View All Doctors List,Add New Admin,Add Doctors,View User Messages.
+Implement authentication functionality using JSON Web Tokens (JWT) to verify the identity of administrators accessing the dashboard.
+Use role-based access control (RBAC) to restrict access to sensitive functionalities such as adding new admins or viewing user messages to authorized administrators only.
 
 
 
